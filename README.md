@@ -2,6 +2,10 @@
 
 Converting vanilla into using new features in NextJs 13
 
+## Notes / Reminders
+
+- By default, all components are server components. If you want a clientside component, you need to type `"use client"` at the top of the file. This will allow you to use `onClick` and hooks like `useState`, `useEffect`, and `window`
+
 ---
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
