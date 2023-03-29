@@ -3,7 +3,9 @@
  *
  * */
 import Link from 'next/link';
+import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa';
 import './globals.css';
+import Navbar from './components/Navbar';
 
 export default function RootLayout({
   children
@@ -13,14 +15,30 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="dark:bg-slate-800">
-        <nav>
-          <ul>
-            <li>
-              <Link href="/about">About</Link>
-            </li>
-          </ul>
-        </nav>
+        <Navbar />
         {children}
+        <div className="prose prose-xl mx-auto p-2 mt-10 flex justify-between text-sm">
+          <div className="text-gray-300">
+            © 2023. Built and maintained by Mee.
+          </div>
+          <div className="flex justify-end">
+            <Link
+              className="text-white/50 hover:text-white p-2"
+              href="https://www.linkedin.com/in/meecha">
+              <FaLinkedin />
+            </Link>
+            <Link
+              className="text-white/50 hover:text-white p-2"
+              href="https://www.github.com/meechanism">
+              <FaGithub />
+            </Link>
+            <Link
+              className="text-white/50 hover:text-white p-2"
+              href="https://www.instagram.com/meechanism">
+              <FaInstagram />
+            </Link>
+          </div>
+        </div>
       </body>
     </html>
   );
