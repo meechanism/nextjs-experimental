@@ -1,3 +1,4 @@
+// Keys are the same as the ones found in posts frontmatter
 type BlogPost = {
   // id will be filename
   id: string;
