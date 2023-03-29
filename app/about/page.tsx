@@ -3,11 +3,10 @@
  */
 
 export default function About() {
-  // throw new Error('testing error template');
-
   return (
     <main>
       <h1>About</h1>
+      <p>stuff about me</p>
     </main>
   );
 }

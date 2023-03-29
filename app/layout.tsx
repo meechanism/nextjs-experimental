@@ -5,14 +5,6 @@
 import Link from 'next/link';
 import './globals.css';
 
-import { Montserrat } from 'next/font/google';
-
-const montserrat = Montserrat({
-  weight: ['400', '700'],
-  subsets: ['latin'],
-  variable: '--font-montserrat'
-});
-
 export default function RootLayout({
   children
 }: {
@@ -20,7 +12,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${montserrat.className}`}>
+      <body className="dark:bg-slate-800">
         <nav>
           <ul>
             <li>

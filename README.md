@@ -2,9 +2,21 @@
 
 Converting vanilla into using new features in NextJs 13
 
+## Start
+
+1. Clone and install: `npm i`
+2. Run dev mode: `npm run dev`
+
 ## Notes / Reminders
 
 - By default, all components are server components. If you want a clientside component, you need to type `"use client"` at the top of the file. This will allow you to use `onClick` and hooks like `useState`, `useEffect`, and `window`
+- To use env variables, `process.env.NAME`
+- To make images available to app, you need to add them to `/public` folder
+
+## Demo Prod Build
+
+1. First build: `npm run build`
+2. Then start server: `npm start`
 
 ---
 

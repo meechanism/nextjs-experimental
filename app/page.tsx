@@ -1,18 +1,15 @@
 /**
  * Root path to website
  */
-import Link from 'next/link';
-import styles from './page.module.css';
+import Posts from './components/Posts';
 
 export default async function Home() {
   return (
-    <main className={styles.main}>
-      <h1 className="text-3xl font-bold underline m-4">Hello</h1>
-      <div>
-        <ul>
-          <Link href="/about/drifloon">Drifloon</Link>
-        </ul>
-      </div>
+    <main className="px-6 mx-auto">
+      <p className="mt-12 mb-12 text-3xl text-center dark:text-white">
+        Hello, I am Mee.
+      </p>
+      {<Posts />}
     </main>
   );
 }
