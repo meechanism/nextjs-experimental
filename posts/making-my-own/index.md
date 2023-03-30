@@ -1,12 +1,12 @@
 ---
 title: Making my own watercolor palette
-date: "2019-02-15T22:12:03.284Z"
+date: '2019-02-15T22:12:03.284Z'
 project: art
-tags: ["learning", "diy", "art", "watercolor"]
-featuredImage: ./assets/watercolors-tin-tubes.jpg
+tags: ['learning', 'diy', 'art', 'watercolor']
+featuredImage: ./watercolors-tin-tubes.jpg
 ---
 
-![Watercolor palettes](./assets/palettes.jpg)
+![Watercolor palettes](./palettes.jpg)
 
 Those little premade watercolor palettes were nice and economical, useful for starting
 my watercolor journey, testing which hues match my style, excellent for travel,
@@ -25,7 +25,7 @@ to use paint straight from the tube onto a separate palette, which gives the pai
 wet consistency. Others, like me, prefer to use dried pies. Whichever works best
 for you, this article may still help you find some excellent colors for your toolkit._
 
-![Winsor and Newton watercolor tubes](./assets/watercolor-paint-tubes.jpg)
+![Winsor and Newton watercolor tubes](./watercolor-paint-tubes.jpg)
 
 I explored some of my favorite watercolor artists' go-to colors and read a bit on
 what colors would make a good beginner's palette. I made a list and purchased
@@ -60,7 +60,7 @@ I found I would make the following changes:
 
 Here is what the filled in pans, swatches, and tubes look like.
 
-![Self-made watercolor palette and tubes](./assets/watercolors-tin-tubes.jpg)
+![Self-made watercolor palette and tubes](./watercolors-tin-tubes.jpg)
 
 I purchased this [24 pan watercolor tin](https://www.amazon.com/gp/product/B01N5GR1DH/ref=pe_2640190_232748420_pd_te_o_s_ti?_encoding=UTF8&pd_rd_i=B01N5GR1DH&pd_rd_r=1XB69221SWS1WFTR79NC&pd_rd_w=Dh94n&pd_rd_wg=67WgG&pf_rd_p=9818265f-dee1-4bdd-a5cc-609c09e2865a&pf_rd_r=1XB69221SWS1WFTR79NC) from Amazon.
 When browsing, the reviews varied far and wide, and since this was on the cheaper
@@ -70,7 +70,7 @@ if always poking a bit higher, but I'm okay with that for the price. This tin
 came with 24 pans, but as you can see in the photo, I only have half of it
 filled at this moment.
 
-![Watercolor palette close up](./assets/watercolor-tin2.jpg)
+![Watercolor palette close up](./watercolor-tin2.jpg)
 
 Extra resources I found useful for referenceing more palettes and watercolor properties:
 

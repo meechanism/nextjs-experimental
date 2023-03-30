@@ -1,9 +1,9 @@
 ---
 title: Hanging Macrame Basket
-tags: ["macrame", "planter", "basket"]
-date: "2020-05-18T22:12:03.284Z"
+tags: ['macrame', 'planter', 'basket']
+date: '2020-05-18T22:12:03.284Z'
 # type: project
-featuredImage: "./images/hanging09.jpg"
+featuredImage: './hanging09.jpg'
 ---
 
 ### Knots
@@ -24,7 +24,7 @@ Notes on knots you will use:
 
 Loop all cords with Lark's Head Knot to ring
 
-![Macrame lark head knot on ring](./images/hanging01.jpg)
+![Macrame lark head knot on ring](./hanging01.jpg)
 
 ### Step 2:
 
@@ -33,7 +33,7 @@ We want to create a V-shape with square knots. To start:
 - Skip far left (first) and far right (last) cords.
 - Make square knots (4 cords) for one entire row.
 
-![Macrame first row of square knots](./images/hanging02.jpg)
+![Macrame first row of square knots](./hanging02.jpg)
 
 ### Step 3:
 
@@ -43,20 +43,20 @@ Continue to square knot more rows:
 - Ex for second row: skip outer left (first THREE) and right most (last THREE)
 - Continue until you complete a triangle of square knots.
 
-![Macrame more rows of square knots](./images/hanging03.jpg)
+![Macrame more rows of square knots](./hanging03.jpg)
 
 ### Step 4:
 
 Run diagonal clove hitch knot sennits along the side and to the bottom of the triangle.
 
-![Macrame clove hitch knots](./images/hanging05.jpg)
+![Macrame clove hitch knots](./hanging05.jpg)
 
 ### Step 5:
 
 Make the top left and right border of clove hitch knots with the inner five cords.
 Fill the inside of the diamind and create the lower clove hitch knot border.
 
-![Macrame clove hitch knots for smaller triangle](./images/hanging06.jpg)
+![Macrame clove hitch knots for smaller triangle](./hanging06.jpg)
 
 ### Step 6:
 
@@ -66,7 +66,7 @@ Sorry, I failed to take photos of the rest because it happened the next day:
 1. Brought outer 4 cords from top left and right to create the first square knot at the front of the basket. Twisted it once INWARD to create the basket holding look.
 1. Make FIVE rows of square knots.
 
-![Macrame basket making](./images/hanging07.jpg)
+![Macrame basket making](./hanging07.jpg)
 
 ### Step 7:
 
@@ -76,13 +76,13 @@ Here is the backside. There was no plan or rhyme or reason for this. It is messy
 1. Tie the excess cords from the bottom of the front part of the basket around the outer two cords (AB and EF).
 1. Gather all the cords and create a gather/wrapping knot.
 
-![Macrame back of basket](./images/hanging08.jpg)
+![Macrame back of basket](./hanging08.jpg)
 
 ### Result
 
 This should fit a 10-15cm (4-6in) planter with a small plant nicely. The top most lark knot to the gather knot is around 25cm (9.8in). This was my very second macrame project ever and I found out it's good to have a plan!
 
-![Macrame basket](./images/hanging09.jpg)
+![Macrame basket](./hanging09.jpg)
 
 I placed a 11cm (4.3in) diameter cut yogurt plastic tub in the macrame hanging basket and put in a 10cm (4in) spider plant in it. The plastic is lightweight and acts as a water basin for any plant inside.
 

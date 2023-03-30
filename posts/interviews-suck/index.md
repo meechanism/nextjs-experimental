@@ -1,9 +1,9 @@
 ---
 title: Interviews Suck
-date: "2020-02-12T23:46:37.121Z"
-description: "Software engineering interview pains"
+date: '2020-02-12T23:46:37.121Z'
+description: 'Software engineering interview pains'
 project: code
-tags: ["career", "learning", "interview"]
+tags: ['career', 'learning', 'interview']
 featuredImage: ./whiteboard.jpg
 ---
 
@@ -13,10 +13,7 @@ It makes sense for employers to run due diligence when considering a candidate t
 
 Interviews are two-way streets: candidates should take the opportunity to interview the team and ask questions to learn about the company for fit.
 
-<figure>
-  <img src="./women-interview.jpg" alt="women interviewing">
-  <figcaption>Women interviewing. Photo by <a href="https://www.pexels.com/@divinetechygirl">Christina Morillo</a></figcaption>
-</figure>
+![women interviewing {450x300} {priority} {caption: Women interviewing. Photo by Christina Morillo}](women-interview.jpg)
 
 I think we can agree interviews are smart to carry out for both parties. However, I'm not convinced there's a perfect way of running them. A recent article from [Hired on the State of Software Engineers](https://hired.com/page/state-of-software-engineers/) stated:
 
@@ -71,10 +68,7 @@ As is standard for software engineering roles, the general process for every com
 
 Take this call as an opportunity to learn about the company. Depending on who you talk to, you may not get all your questions answered. For example, I generally take this time to ask about the engineering team structure, the tech stack, and the projects they are working on. However, recruiters may not know all the details here, but hiring managers may.
 
-<figure>
-  <img src="./woman-phone.jpg" alt="woman on phone">
-  <figcaption>Get ready for that big phone call. Photo by <a href="https://www.pexels.com/@breakingpic">Breakingpic</a></figcaption>
-</figure>
+![woman on phone {450x300} {priority} {caption: Get ready for that big phone call. Photo by Breakingpic}](woman-phone.jpg)
 
 Sometimes you get to talk to the VP of Engineering. This is a great time to drill them on how they build the team and their engineering vision. If they cannot provide coherent answers, this is a great big red flag.
 
@@ -91,10 +85,7 @@ I had several different types of technical screenings, and spoiler alert, I do h
 
 Sometimes it's a mixture of the screenings above are used. Don't feel incompetent if a company requires more than one screening: it may be a normal part of their process.
 
-<figure>
-  <img src="./css.jpg" alt="zoomed in css">
-  <figcaption>Code tunnel vision is real when you are running out of time. Photo by <a href="https://www.pexels.com/@negativespace">Negative Space</a></figcaption>
-</figure>
+![zoomed in css {450x300} {priority} {caption: Code tunnel vision is real when you are running out of time. Photo by Negative Space}](css.jpg)
 
 Example sites companies asked me to use screenings. All of them had pre-generated links or profiles to use for the actual screening:
 
@@ -114,10 +105,7 @@ Each company has their onsite slightly differently, but it's common to see the f
 - 2-3 45 min-1 hr rounds with different engineers focusing on problem-solving (design system, whiteboard, data structures, time/space complexity)
 - 1 behavioral round (what are your strengths/weaknesses, etc). This can be someone non-technical (product or designer) or someone more senior (VP or director).
 
-<figure>
-  <img src="./whiteboard.jpg" alt="whiteboarding">
-  <figcaption>Whiteboarding. Photo by <a href="https://www.pexels.com/@divinetechygirl">Christina Morillo</a></figcaption>
-</figure>
+![whiteboarding {450x300} {priority} {caption: Whiteboarding. Photo by Christina Morillo}](whiteboard.jpg)
 
 Some companies will kick you out if you perform poorly during the early stages (savage) and some will keep you around until the end (hopefully they like you).
 
@@ -130,9 +118,6 @@ Although I don't have a solution for the perfect interview for both the company 
 Practical takehomes are beneficial to learn a candidate's coding style and problem-solving skills. Candidates also get to carve out time to focus on the problem in the comfort of their environment without an over-the-shoulder peer.
 Onsite team round tables are great for many eyes to assess a potential new colleague and provide candidates the lens to see actual company culture. Though I can see it being disruptive to teams, it seems invaluable to get an excellent candidate vetted by multiple teams.
 
-<figure>
-  <img src="./laptop-coffee.jpg" alt="laptop and coffee">
-  <figcaption>Grab your laptop, get some coffee, and get comfortable. It'll be a while. Photo by <a href="https://www.pexels.com/@negativespace">Negative Space</a></figcaption>
-</figure>
+![laptop and coffee {450x300} {priority} {caption: Grab your laptop, get some coffee, and get comfortable. It'll be a while. Photo by Negative Space}](laptop-coffee.jpg)
 
 I hope better interview processes and experiences are created in the future to save everyone time and stress.

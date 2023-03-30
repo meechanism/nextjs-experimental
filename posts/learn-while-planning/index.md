@@ -1,19 +1,16 @@
 ---
 title: Learn while planning
-date: "2019-11-16T23:46:37.121Z"
-description: "Some new terminology I encountered while prepping for my next trip."
+date: '2019-11-16T23:46:37.121Z'
+description: 'Some new terminology I encountered while prepping for my next trip.'
 project: travel
-tags: ["education", "planning"]
+tags: ['education', 'planning']
 featuredImage: ./glencoe.jpg
 ---
 
 I have a trip planned to explore more of the Scottish Highlands next year (2020). I've been itching to return
 because my last trip was only several days, but I fell in love.
 
-<figure>
-  <img src="./glencoe.jpg" alt="Glencoe">
-  <figcaption>Me admiring the beauty of Glencoe, Dec 2017</figcaption>
-</figure>
+![Glencoe {500x375} {priority} {caption: Me admiring the beauty of Glencoe, Dec 2017}](glencoe.jpg)
 
 Ever since my last trip in Dec 2017,
 I've come to appreciate and embrace the wealth of knowledge the locals provide. I used to have a bad attitude about

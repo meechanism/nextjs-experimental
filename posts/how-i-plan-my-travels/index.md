@@ -1,16 +1,13 @@
 ---
 title: How I plan my travels
-date: "2019-12-18T23:46:37.121Z"
-description: "Sharing my routine of planning my travels"
+date: '2019-12-18T23:46:37.121Z'
+description: 'Sharing my routine of planning my travels'
 project: travel
-tags: ["trips", "planning"]
-featuredImage: ./assets/journal.jpg
+tags: ['trips', 'planning']
+featuredImage: ./journal.jpg
 ---
 
-<figure>
-  <img src="./assets/plane-fuji.jpg" alt="JAL flying over Mt. Fuji">
-  <figcaption>Flying over Mt. Fuji, Japan, Dec 3, 2018</figcaption>
-</figure>
+![JAL flying over Mt. Fuji {900x604} {priority} {caption: Flying over Mt. Fuji, Japan, Dec 3, 2018}](plane-fuji.jpg)
 
 I've had my fair share of domestic and international travels. I wouldn't say I'm seasoned, but I do find I have a pretty good grasp on some essentials required to make me feel confident about my planning.
 
@@ -22,10 +19,7 @@ But this list should build you to a healthy foundation for your trip.
 
 Get yourself a list of places (countries, regions, cities, landmarks, heck, even local cats or dogs) you want to visit. This will help out with the next step.
 
-<figure>
-  <img src="./assets/journal.jpg" alt="Journal spread on Kanazawa">
-  <figcaption>Researched ahead of time to visit Kanazawa and still surprised at the amount of amazing local offerings. Dec 15, 2018</figcaption>
-</figure>
+![Journal spread on Kanazawa {900x604} {priority} {caption: Researched ahead of time to visit Kanazawa and still surprised at the amount of amazing local offerings. Dec 15, 2018}](journal.jpg)
 
 If you are traveling internationally, make sure your passport is valid for when you will be traveling.
 
@@ -41,10 +35,7 @@ Knowing your budget can also help you determine when in the year to go. For exam
 
 What are milestones? These are the BIG things. The things that will make you miserable if planned poorly or the thing that you WANT to do might be what inspired the trip.
 
-<figure>
-  <img src="./assets/journal-japan2.png" alt="Journal of adventures">
-  <figcaption>Travel journal of Japan. Jun 7, 2016</figcaption>
-</figure>
+![Journal of adventures {900x604} {priority} {caption: Travel journal of Japan. Jun 7, 2016}](journal-japan2.png)
 
 Examples:
 
@@ -57,10 +48,7 @@ Examples:
 
 Don't get too carried away here. I'd say lodging/stay is required, but the others are nice things to have for excitement.
 
-<figure>
-  <img src="./assets/himeji.jpg" alt="Himeji Castle">
-  <figcaption>Walking up through Himeji Castle. One of the castles I dreamed of visiting as a child. Dec 18, 2018</figcaption>
-</figure>
+![Himeji Castle {900x604} {priority} {caption: Walking up through Himeji Castle. One of the castles I dreamed of visiting as a child. Dec 18, 2018}](himeji.jpg)
 
 > Note: Only officialize this part after purchasing your plane ticket. It makes no sense to do it before you know you're officially going. However, it may make sense for you to see a soft-list of milestones to help you determine whether or not to purchase your tickets. For example, maybe the concert or hotel you wanted to stay at is completely booked.
 
@@ -77,10 +65,7 @@ There are a couple of important notes here:
 - Determine if the area you are visiting is a cash-economy (meaning most places accept cash). Japan, for example, is a cash economy. A lot of places in very urban areas like Tokyo and Kyoto will accept credit cards, but as soon as you go out into the suburban or rural areas (highly recommend), then you will start seeing that cash is required.
 - See if it makes more sense to exchange domestically or internationally. You might be able to save some money.
 
-<figure>
-  <img src="./assets/money-pounds.jpg" alt="10 British Pounds">
-  <figcaption>Me amused by the see-through pound, London, UK, Dec 22, 2017</figcaption>
-</figure>
+![10 British Pounds {900x675} {priority} {caption: Me amused by the see-through pound, London, UK, Dec 22, 2017}](money-pounds.jpg)
 
 ## #5 Phone service/data
 
@@ -95,10 +80,7 @@ Depending on where you are going and your requirements, check to see your best o
 
 It's scary getting around a new place! To decrease any anxiety, familiarize yourself with local public transit systems offerings (buses, local/bullet trains, subways, ferries, taxis, rideshares, etc) and payment methods.
 
-<figure>
-  <img src="./assets/train-platform.jpg" alt="Busy Tokyo station train platform">
-  <figcaption>Busy Tokyo station train platform. Dec 19, 2018</figcaption>
-</figure>
+![Busy Tokyo station train platform {900x600} {priority} {caption: Busy Tokyo station train platform. Dec 19, 2018}](train-platform.jpg)
 
 Good questions to ask yourself:
 
@@ -107,10 +89,7 @@ Good questions to ask yourself:
 - Are there local rideshares available? Do you have the apps installed? (e.g.: Lyft, Uber, Juno, Grab)
 - Which methods of transport are more cost-effective for your travel?
 
-<figure>
-  <img src="./assets/glencoe.jpg" alt="Glencoe's glow">
-  <figcaption>We took a tour bus through the Scottish Highlands and never expected to have our breaths taken away. Dec 7, 2017</figcaption>
-</figure>
+![Glencoe's glow {900x601} {priority} {caption: We took a tour bus through the Scottish Highlands and never expected to have our breaths taken away. Dec 7, 2017}](glencoe.jpg)
 
 ---
 
@@ -118,9 +97,6 @@ Good questions to ask yourself:
 
 Again, I stress that overplanning can cause anxiety especially because unforeseen issues can pop up (delays, bad weather, cancellations, etc). The more things you have planned, the less amount of flexibility you have. But, ensuring you have the essentials is key to feeling relaxed about a looser schedule.
 
-<figure>
-  <img src="./assets/cafe-relax.jpg" alt="Cafe books">
-  <figcaption>Relaxing during the rain at cafe Motomachi Saryo 元町茶寮, Hakodate, Hokkaido, Japan, Sept 6, 2019</figcaption>
-</figure>
+![Cafe books {900x675} {priority} {caption: Relaxing during the rain at cafe Motomachi Saryo 元町茶寮, Hakodate, Hokkaido, Japan, Sept 6, 2019}](cafe-relax.jpg)s
 
 When all else fails, just remember the only two things you need are your passport and money. Those should be able to get you somewhere safe.

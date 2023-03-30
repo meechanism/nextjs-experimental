@@ -1,8 +1,8 @@
 ---
 title: Replanting ZZ
-date: "2020-05-31T22:12:03.284Z"
+date: '2020-05-31T22:12:03.284Z'
 project: plants
-tags: ["replant", "zz", "Zamioculcas zamiifolia"]
+tags: ['replant', 'zz', 'Zamioculcas zamiifolia']
 featuredImage: ./zz01.jpg
 ---
 
@@ -16,31 +16,17 @@ I think it had been thirsty for a long time because it was losing a lot of stems
 
 At this point I had it for about 8 months and it was growing like crazy.
 
-<div class="project-gallery">
-  <figure class="img--project">
-    <img src="./zz-feb-2018.jpg" alt="ZZ Aug 2018" />
-    <figcaption>ZZ plant facing a screened northwest window in February 2018</figcaption>
-  </figure>
-  <figure class="img--project">
-    <img src="./zz-jan-2018.jpg" alt="ZZ Nov 2018" />
-    <figcaption> A closer look of the plant in January 2018</figcaption>
-  </figure>
-</div>
+![ZZ Feb 2018 {900x604} {priority} {caption: ZZ plant facing a screened northwest window in February 2018}](zz-feb-2018.jpg)
+
+![ZZ Jan 2018 {900x604} {priority} {caption: A closer look of the plant in January 2018}](zz-jan-2018.jpg)
 
 It sounds weird to me when people say their ZZ plant does nothing for them. I was seeing a ton of new unfurling growth! You can see the old stump from the areas that died off when I adopted it and signs of that giant tuber peaking out of the soil. I didn't think much of it at the time because I was still seeing so much growth and didn't want to disturb the pot.
 
 Here are a couple lower quality photos I found of my ZZ plant in the background of other photos later in 2018.
 
-<div class="project-gallery">
-  <figure class="img--project">
-    <img src="./zz-aug-2018-01.jpg" alt="ZZ Aug 2018" />
-    <figcaption>ZZ August 2018</figcaption>
-  </figure>
-  <figure class="img--project">
-    <img src="./zz-nov-2018.jpg" alt="ZZ Nov 2018" />
-    <figcaption>ZZ November 2018</figcaption>
-  </figure>
-</div>
+![ZZ August 2018 {900x604} {priority} {caption: ZZ August 2018}](zz-aug-2018-01.jpg)
+
+![ZZ November 2018 {900x604} {priority} {caption: ZZ November 2018}](zz-nov-2018.jpg)
 
 ## Now in 2020
 

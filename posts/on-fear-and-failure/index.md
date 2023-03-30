@@ -1,8 +1,8 @@
 ---
 title: On fear and failure
-date: "2020-01-20T22:12:03.284Z"
+date: '2020-01-20T22:12:03.284Z'
 project: life
-tags: ["life", "career", "interview"]
+tags: ['life', 'career', 'interview']
 featuredImage: ./falling.jpg
 ---
 
@@ -10,10 +10,7 @@ I've been holding myself back for a while now. Maybe for a decade? Perhaps my wh
 
 I try my best to prepare myself for unfamiliar topics, discussions, ideas... anything. All things. This is very general and it applies to many aspects in life: discussions about the latest news with friends, meetings with coworkers for an upcoming project, interview problems for jobs, and decisions about lodging for the next vacation booking. You name it.
 
-<figure>
-  <img src="./falling.jpg" alt="Person falling in sky">
-  <figcaption>Falling. Photo by <a href="https://www.pexels.com/@hngstrm">Henry & Co.</a></figcaption>
-</figure>
+![Person falling in sky {900x604} {priority} {caption: Falling. Photo by <a href="https://www.pexels.com/@hngstrm">Henry & Co.</a>}](falling.jpg)
 
 I don't like going into a situation blind. It's fair if I don't want to make myself out like a fool, right? I want to know what questions to ask and want to be insightful.
 
@@ -29,10 +26,7 @@ Except I fooled _myself_.
 
 Fear wins in these scenarios because it took something significant away from me: opportunity.
 
-<figure>
-  <img src="./frustration.jpg" alt="Person in frustration">
-  <figcaption>Frustration. Photo by <a href="https://www.pexels.com/@juanpphotoandvideo">Juan Pablo Serrano Arenas</a></figcaption>
-</figure>
+![Person in frustration {900x604} {priority} {caption: Frustration. Photo by <a href="https://www.pexels.com/@juanpphotoandvideo">Juan Pablo Serrano Arenas</a>}](frustration.jpg)
 
 ## Fear sucks
 
@@ -62,10 +56,7 @@ I need to remember I can't sell myself short.
 
 What if perhaps the next time I am faced with something that might make me fear failure I try to set myself in a state of peace? Will that allow me to face a problem head on with full confidence? Will this help me leap for an attempt? I think so, perhaps not 100% successfully, but at least incrementally. That is an excellent start at squashing fear.
 
-<figure>
-  <img src="./calm-clouds.jpg" alt="Sun breaking through clouds">
-  <figcaption>Sun breaking through clouds. Photo by <a href="https://www.pexels.com/@joshsorenson">Josh Sorenson</a></figcaption>
-</figure>
+![Sun breaking through clouds {900x604} {priority} {caption: Sun breaking through clouds. Photo by <a href="https://www.pexels.com/@joshsorenson">Josh Sorenson</a>}](calm-clouds.jpg)
 
 It's funny though; failure is so scary, I have to remember to breathe!
 
@@ -75,10 +66,7 @@ I also have to remember failure is a huge part of my learning process. I am a vi
 
 Perhaps the only reason why I felt safe making a ton of mistakes was that no one else was there to judge me. I am my biggest critic and I know I'm not perfect, so why should I care if I fail in front of others? I'm not being very fair to myself, am I?
 
-<figure>
-  <img src="./mic.jpg" alt="Microphone">
-  <figcaption>Microphone. Photo by <a href="https://www.pexels.com/@freestocks">freestocks.org</a></figcaption>
-</figure>
+![Microphone {900x604} {priority} {caption: Microphone. Photo by <a href="https://www.pexels.com/@freestocks">freestocks.org</a>}](mic.jpg)
 
 ## Strengths of failure
 
@@ -88,10 +76,7 @@ Failure is instructive. I learn from my mistakes and can use their knowledge in 
 
 Failure is also a chance to learn my strengths and weaknesses. It provides an opportunity for growth. Failed outcomes highlight exactly what I need to practice to succeed.
 
-<figure>
-  <img src="./soaring.jpg" alt="Bird soaring in sky">
-  <figcaption>Soaring. Photo by <a href="https://www.pexels.com/@tobias-bjorkli-706370">Tobias Bjørkli</a></figcaption>
-</figure>
+![Bird soaring in sky {900x604} {priority} {caption: Soaring. Photo by <a href="https://www.pexels.com/@tobias-bjorkli-706370">Tobias Bjørkli</a>}](soaring.jpg)
 
 ## Future
 

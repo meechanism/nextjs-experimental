@@ -1,17 +1,14 @@
 ---
 title: Why a style guide
-date: "2018-09-14T22:12:03.284Z"
+date: '2018-09-14T22:12:03.284Z'
 project: code
-tags: ["work"]
+tags: ['work']
 featuredImage: ./working-in-a-group.jpg
 ---
 
 When I joined the Customer Experience team to build a new component library, we quickly found a need to publish a style guide. What is it, you ask? I will cover what it is and why we needed one!
 
-<figure>
-  <img src="./camera-components.jpg" alt="A camera's innards">
-  <figcaption>Like many things, a camera is less complicated when you break it down into simple components. Photo by <a href="https://www.pexels.com/@freecreativestuff">@freecreativestuff</a></figcaption>
-</figure>
+![A camera's innards {1280x853} {priority} {caption: Like many things, a camera is less complicated when you break it down into simple components. Photo by <a href="https://www.pexels.com/@freecreativestuff">@freecreativestuff</a> }](camera-components.jpg)
 
 ## Purpose: Why is a style guide being made?
 
@@ -29,10 +26,7 @@ The style guide is the living and growing single source of truth for determining
 - Standardizing guidelines for global styles, such as layout grids, breakpoints, colors, typography and more.
 - Document accessibility (a11y) practices and support.
 
-<figure>
-  <img src="./mountains-nature-arrow-guide.jpg" alt="Arrow sign">
-  <figcaption>A simple, clear, and helpful direction. Photo by <a href="https://www.pexels.com/@jens-johnsson-14223">@jens-johnsson-14223</a></figcaption>
-</figure>
+![Arrow sign {600x400} {priority} {caption: A simple, clear, and helpful direction. Photo by <a href="https://www.pexels.com/@jens-johnsson-14223">@jens-johnsson-14223</a>}](mountains-nature-arrow-guide.jpg)
 
 ## The style guide is NOT:
 
@@ -47,10 +41,7 @@ The style guide is the living and growing single source of truth for determining
 
 The style guide is meant to be used by anyone involved with the product that needs to design, implement, edit, and review a UI.
 
-<figure>
-  <img src="./working-in-a-group.jpg" alt="Working in a group">
-  <figcaption>Teamwork requires people. Photo by <a href="https://www.pexels.com/@kaboompics">@kaboompics</a></figcaption>
-</figure>
+![Working in a group {600x400} {priority} {caption: Teamwork requires people. Photo by <a href="https://www.pexels.com/@kaboompics">@kaboompics</a>}](working-in-a-group.jpg)
 
 This includes, but is not limited to, the following roles:
 
