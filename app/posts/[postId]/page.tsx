@@ -63,10 +63,12 @@ const PostPage = async ({ params }: any) => {
         const hasCaption = metastring?.toLowerCase().includes('{caption:');
         const caption = metastring?.match(/{caption: (.*?)}/)?.pop();
 
+        // Cleaning mee's old md files
+        const cleanedImgSrc = image.properties.src.replace('./', '');
         return (
           <div className="postImgWrapper">
             <Image
-              src={`/images/posts/${postId}/${image.properties.src}`}
+              src={`/images/posts/${postId}/${cleanedImgSrc}`}
               width={width}
               height={height}
               className="rounded my-2"

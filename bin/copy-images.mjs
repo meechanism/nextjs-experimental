@@ -25,7 +25,9 @@ const postsDir = `./${POSTS_DIR_NAME}`;
  */
 async function createPostImageFoldersForCopy() {
   // Get every post folder: post-one, post-two etc.
-  const postSlugs = await fsPromises.readdir(postsDir);
+  const postSlugs = (await fsPromises.readdir(postsDir)).filter(
+    (s) => s !== '.DS_Store'
+  );
 
   for (const slug of postSlugs) {
     const allowedImageFileExtensions = ['.png', '.jpg', '.jpeg', '.gif'];

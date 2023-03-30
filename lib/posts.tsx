@@ -13,7 +13,9 @@ const postsDirectory = path.join(process.cwd(), POSTS_DIR_NAME);
  * @returns list of BlogPost
  */
 export async function getSortedPostsData() {
-  const postSlugs = await fsPromises.readdir(POSTS_DIR_NAME);
+  const postSlugs = (await fsPromises.readdir(POSTS_DIR_NAME)).filter(
+    (s) => s !== '.DS_Store'
+  );
 
   // Go through all our post dirs (slugs) to collect post data
   const allPostsData = postSlugs.map((currDir) => {
