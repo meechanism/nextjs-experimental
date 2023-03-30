@@ -1,17 +1,14 @@
 ---
 title: My go-to interview questions (as a candidate)
-date: "2020-02-23T22:12:03.284Z"
+date: '2020-02-23T22:12:03.284Z'
 project: life
-tags: ["career", "interview"]
+tags: ['career', 'interview']
 featuredImage: ./puzzle.jpg
 ---
 
 As a candidate before any interview call, whether an introductory call or a technical screen, I always prepare with a listen of questions I should ask. Most times I am allowed to ask the other person some questions and I never want to be empty-handed.
 
-<figure>
-  <img src="./empty-tablet.jpg" alt="blank tablet">
-  <figcaption>Empty handed and awkward. Photo by <a href="https://www.pexels.com/@bongkarn-thanyakij-683719">@bongkarn-thanyakij</a></figcaption>
-</figure>
+![blank tablet {960x640} {priority} {caption: Empty handed and awkward. Photo by Bongkarn Thanyakij}](empty-tablet.jpg)
 
 The types of questions I ask generally fall into two buckets:
 
@@ -26,11 +23,7 @@ My favorite types of questions to ask fall into the second bucket. These usually
 
 Some teams are built to be completely autonomous and shut off from others. Some teams are extremely open. Some are so small that everyone works with everyone, and some are so large that they see new faces every day. All teams work differently, so this question helps me determine what type of people thrive with the culture at the company.
 
-<figure>
-  <img src="./tree-hill.jpg" alt="green hill">
-  <figcaption>Success is green grass and hills. Photo by <a href="https://www.pexels.com/@skitterphoto">@skitterphoto</a></figcaption>
-</figure>
-
+![green hill {640x427} {priority} {caption: Success is green grass and hills. Photo by @skitterphoto}](tree-hill.jpg)
 Follow-up questions:
 
 - What type of people are not successful?
@@ -43,10 +36,7 @@ Besides money to pay the bills, it's interesting to learn why people choose to w
 
 For me, happy and thoughtful employees are better than resentful, passive employees that only to come in for a 9-5pm routine. I don't think there's an exact science behind it, but I think if people care about their job, they work harder and smarter to meet the team's needs and strive to build a great team and product. This is my experience.
 
-<figure>
-  <img src="./team.jpg" alt="team high-five">
-  <figcaption>Teamwork is celebrating each other's success. Photo by <a href="https://www.pexels.com/@fauxels">@fauxels</a></figcaption>
-</figure>
+![team high-five {640x427} {priority} {caption: Teamwork is celebrating each other's success. Photo by @fauxels}](team.jpg)
 
 Example answers I received:
 
@@ -64,10 +54,7 @@ It's a great sign if someone can list multiple pros. This question usually provi
 
 My purpose with this question is to see if the person cares enough about the team and company to see outside their day to day tasks. I think it's important to work with people who not only care about themselves but the health of their team. If they see weak spots, they should point it out and if at all possible, work to improve it.
 
-<figure>
-  <img src="./puzzle.jpg" alt="missing puzzle">
-  <figcaption>Challenges are puzzles and come in all kinds of shapes. Photo by <a href="https://www.pexels.com/@pixabay">@pixabay</a></figcaption>
-</figure>
+![missing puzzle {640x427} {priority} {caption: Challenges are puzzles and come in all kinds of shapes. Photo by @pixabay}](puzzle.jpg)
 
 Example answers I received:
 
@@ -88,10 +75,7 @@ This question sprouted off the previous "challenge" question during an actual in
 
 He said the there are many challenges the team is facing, but he was also looking even further into the future of the platform and said what he wanted. He's aware of the road blocks but wanted to tell me about his end goal.
 
-<figure>
-  <img src="./dreams.jpg" alt="dreams in a jar">
-  <figcaption>Dreams shoved in bottles are still dreams. Photo by <a href="https://www.pexels.com/@pixabay">@pixabay</a></figcaption>
-</figure>
+![dreams in a jar {640x427} {priority} {caption: Dreams shoved in bottles are still dreams. Photo by @pixabay}](dreams.jpg)
 
 I think this is a great question because it means the employee has aspirations for the company and dreams of improving something, whether it be a product, service, process, or something else.
 

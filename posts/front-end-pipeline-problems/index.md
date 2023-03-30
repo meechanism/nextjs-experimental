@@ -1,8 +1,8 @@
 ---
 title: Addressing Front-End Pipeline Frustrations
-date: "2018-05-01T22:12:03.284Z"
+date: '2018-05-01T22:12:03.284Z'
 project: code
-tags: ["work"]
+tags: ['work']
 featuredImage: ./teamwork.jpg
 ---
 
@@ -10,10 +10,7 @@ My entrance to the engineering team was a bit non-standard. I joined the organiz
 
 I did that.
 
-<figure>
-  <img src="./checkbox-component.png" alt="Checkbox Component page">
-  <figcaption>Screenshot of checkbox component page</figcaption>
-</figure>
+![Component page {900x600} {priority} {caption: Screenshot of checkbox component page}](checkbox-component.png)
 
 And then the CX team dissolved and I was pushed into engineering proper. I was okay with this, as it meant I was going to work on actual products and work with a team of other engineers. Very much immediately I found out how much of a mess the organization was regarding how little they knew about front-end development.
 
@@ -21,10 +18,7 @@ To properly organize my thoughts in prep to share with the director of engineeri
 
 Yes, I called it "pipeline issues" because the chain of processing requests was a hot mess/non-existent. Yes, I was fed up and made a meeting with people who could do something about this and fix it. The lack of processes, standards, and expectations deeply affected productivity, attitudes, and inter-team relationships.
 
-<figure>
-  <img src="./compile-warning.png" alt="Terminal compilation warnings">
-  <figcaption>Mee's got 5 problems, and front-end pipeline issues is also one of them.</figcaption>
-</figure>
+![Terminal compilation warnings {1000x669} {priority} {caption: Mee's got 5 problems, and front-end pipeline issues is also one of them.}](compile-warning.png)
 
 ## Front-end Pipeline Issues
 
@@ -39,10 +33,7 @@ I found the following _types_ of issues reoccur and attempted to define them as 
 - Tooling: It seems at times individual contributors don't have the correct tools and resources to help them fulfill their tasks. Most times, this can probably be resolved with some education/training.
 - Resource: Do teams have the resources they need to be productive and meet deadlines? This can be developer resources, support, design, and everything in between.
 
-<figure>
-  <img src="./messy-desk.jpg" alt="Messy Desk">
-  <figcaption>A relationship is strong when your co-worker can use another's desk for storage</figcaption>
-</figure>
+![Messy Desk {800x534} {priority} {caption: A relationship is strong when your co-worker can use another's desk for storage}](messy-desk.jpg)
 
 ### Actual Problems
 
@@ -64,9 +55,6 @@ The following problems list actual examples the team faced. The type of problem 
 
 Various leads from different teams came together once a week to align matters, discuss, and resolve any problems. It turns out many issues exist because of the sheer lack of communication.
 
-<figure>
-  <img src="./teamwork.jpg" alt="Group of people working on laptops">
-  <figcaption>A team working on problems together. Photo by <a href="https://www.pexels.com/@daria">@daria</a></figcaption>
-</figure>
+![Group of people working on laptops {900x600} {priority} {caption: A team working on problems together. Photo by <a href="https://www.pexels.com/@daria">@daria</a>}](teamwork.jpg)
 
 If your team is experiencing similar types of issues or problems above, I do recommend getting people together to acknowledge the existence of said problems. Talking is the first step.

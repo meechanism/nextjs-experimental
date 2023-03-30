@@ -66,19 +66,24 @@ const PostPage = async ({ params }: any) => {
         // Cleaning mee's old md files
         const cleanedImgSrc = image.properties.src.replace('./', '');
         return (
-          <div className="postImgWrapper">
-            <Image
-              src={`/images/posts/${postId}/${cleanedImgSrc}`}
-              width={width}
-              height={height}
-              className="rounded my-2"
-              alt={alt}
-              priority={isPriority}
-            />
+          <div className="flex flex-col justify-center items-center ">
+            <div>
+              <Image
+                src={`/images/posts/${postId}/${cleanedImgSrc}`}
+                width={width}
+                height={height}
+                className="rounded my-2"
+                alt={alt}
+                priority={isPriority}
+              />
+            </div>
             {hasCaption ? (
-              <div className="text-sm text-center" aria-label={caption}>
-                {caption}
-              </div>
+              // Captions sometimes have links for credit
+              <div
+                className="text-sm text-center"
+                aria-label={caption}
+                dangerouslySetInnerHTML={{ __html: caption }}
+              />
             ) : null}
           </div>
         );

@@ -1,8 +1,8 @@
 ---
 title: An eye for design
-date: "2020-02-10T22:12:03.284Z"
+date: '2020-02-10T22:12:03.284Z'
 project: art
-tags: ["design", "learning"]
+tags: ['design', 'learning']
 featuredImage: ./scale.jpg
 ---
 
@@ -14,10 +14,7 @@ I recently decided to try to put some words to what that means. Through some sim
 
 Whitespace defines the area in a design lacking substantial content. This is usually the space between elements and even letters.
 
-<figure>
-  <img src="./whitespace.jpg" alt="coffee cup">
-  <figcaption>Spacing for a cup. Photo by <a href="https://www.pexels.com/@brigitte-tohm-36757">Brigitte Tohm</a></figcaption>
-</figure>
+![coffee cup {900x604} {priority} {caption: Spacing for a cup. Photo by <a href="https://www.pexels.com/@brigitte-tohm-36757">Brigitte Tohm</a>}](whitespace.jpg)
 
 There are multiple types of whitespace:
 
@@ -40,10 +37,7 @@ References: [Papermill store white space](https://blog.thepapermillstore.com/des
 
 Aligning visual elements within your design helps create organization, composition, structure, balance, and relations.
 
-<figure>
-  <img src="./alignment.jpg" alt="magazine article">
-  <figcaption>Alignment of text. Photo by <a href="https://www.pexels.com/@fotios-photos">Lisa Fotios</a></figcaption>
-</figure>
+![magazine article {900x601} {priority} {caption: Alignment of text. Photo by <a href="https://www.pexels.com/@fotios-photos">Lisa Fotios</a>}](alignment.jpg)
 
 There are generally two types of alignment:
 
@@ -66,10 +60,7 @@ The Oxford dictionary defines contrast as:
 
 > differences in color or in light and dark, used in photographs and paintings to create a special effect
 
-<figure>
-  <img src="./contrast.jpg" alt="balloon">
-  <figcaption>Balloon contrast. Photo by <a href="https://www.pexels.com/@deeanacreates">Deeana</a></figcaption>
-</figure>
+![balloon {1280x853} {priority} {caption: Balloon contrast. Photo by <a href="https://www.pexels.com/@deeanacreates">Deeana</a> }](contrast.jpg)
 
 In design, contrast can be used for many things:
 
@@ -107,10 +98,7 @@ The size and scale of all elements need to be considered. You want to adjust the
 
 The scale of elements helps determine and define your visual hierarchy (more on this later).
 
-<figure>
-  <img src="./scale.jpg" alt="rocks lined up">
-  <figcaption>Lined up rocks from smallest to largest. Photo by <a href="https://www.pexels.com/@mason-slover-338133">Mason Slover</a></figcaption>
-</figure>
+![rocks lined up {900x600} {priority} {caption: Lined up rocks from smallest to largest. Photo by <a href="https://www.pexels.com/@mason-slover-338133">Mason Slover</a> }](scale.jpg)
 
 ## 5) Typography
 
@@ -123,10 +111,7 @@ Arranging your type to make your copy more visible is an art. Here are some thin
 - Font styles
 - Color, contrast, and weights
 
-<figure>
-  <img src="./typography.jpg" alt="keep out gate">
-  <figcaption>Keep out, respectfully. Photo by <a href="https://www.pexels.com/@jaymantri">jaymantri</a></figcaption>
-</figure>
+![keep out gate {900x599} {priority} {caption: Keep out, respectfully. Photo by <a href="https://www.pexels.com/@jaymantri">jaymantri</a> }](typography.jpg)
 
 ## 6) Color
 
@@ -134,10 +119,7 @@ Color is said to be the first UI design fundamental that shapes a user's experie
 
 Also, too many can destroy the quality of your design or the message you are trying to convey.
 
-<figure>
-  <img src="./color.jpg" alt="Colors">
-  <figcaption>All the colors. Photo by <a href="https://www.pexels.com/@amber-elizabeth-art">Amber Lamoreaux</a></figcaption>
-</figure>
+![Colors {800x532} {priority} {caption: All the colors. Photo by <a href="https://www.pexels.com/@amber-elizabeth-art">Amber Lamoreaux</a> }](color.jpg)
 
 To add additional contrast without adding too many different colors, a simple trick is to use slight differences in the same color, but change hue to reinforce different blocks of the layout.
 
@@ -147,10 +129,7 @@ Every element has some level of importance, some more than others. VH is how we 
 
 VH is important because it can help determine whether something is important to someone and worth their time. For example, someone could take a mere fraction of a second to determine if whether or not what they see is worth their time. If you don't have a clear VH, they might skim over that design/content immediately.
 
-<figure>
-  <img src="./vh.jpg" alt="newspaper">
-  <figcaption>Visual hierarchy in print. Photo by <a href="https://www.pexels.com/@lizakozorezova">Elizaveta Kozorezova</a></figcaption>
-</figure>
+![newspaper {640x960} {priority} {caption: Visual hierarchy in print. Photo by <a href="https://www.pexels.com/@lizakozorezova">Elizaveta Kozorezova</a>}](vh.jpg)
 
 It's also important to note how different cultures read/scan a design. For western countries, they may read left to right, but for some Asian countries, they read right to left.
 

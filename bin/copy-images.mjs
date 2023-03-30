@@ -37,7 +37,7 @@ async function createPostImageFoldersForCopy() {
 
     // Filter out files with allowed file extension (images)
     const images = postDirFiles.filter((file) =>
-      allowedImageFileExtensions.includes(path.extname(file))
+      allowedImageFileExtensions.includes(path.extname(file).toLowerCase())
     );
 
     if (images.length) {

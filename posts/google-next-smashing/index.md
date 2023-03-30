@@ -1,9 +1,9 @@
 ---
 title: Learnings from 2019 Google Next and SmashingConf SF
-date: "2019-04-23T22:12:03.284Z"
+date: '2019-04-23T22:12:03.284Z'
 project: code
-tags: ["conference", "education"]
-featuredImage: ./assets/google-next.jpg
+tags: ['conference', 'education']
+featuredImage: ./google-next.jpg
 ---
 
 I had the opportunity to attend Google NEXT and SmashingConf SF 2019. Both were in San Francisco, CA and within weeks of each other, so I dub this the Month of Conferences and Learning. Both were multiple days and packed with dense talks.
@@ -12,10 +12,7 @@ I had the opportunity to attend Google NEXT and SmashingConf SF 2019. Both were 
 
 NEXT is a huge conference held annually by Google to gather entrepreneurs, business leaders, and developers to learn about the future of (Google) cloud and opportunities with the latest technologies. It is multi-track, meaning many sessions run in parallel, so it is smart to plan your schedule and reserve seats to guarantee spots for the things you want to attend.
 
-<figure>
-  <img src="./assets/google-next.jpg" alt="Goole Next geometric decor">
-  <figcaption>Entrance of Google NEXT hanging decor at Moscone South</figcaption>
-</figure>
+![Geometric decor {900x400} {priority} {caption: Entrance of Google NEXT hanging decor at Moscone South}](google-next.jpg)
 
 Many sessions were outside my repertoire, so it wasn’t too difficult for me to create an itinerary without conflicts. I attended sessions related to the Chrome browser, Google App Engine/SPAs/ML, and inclusion/diversity. NEXT is probably one of the most well organized, uncrowded, and well-staffed major events I’ve ever attended. All of the staff was very professional, from the speakers, to the security, to IT, all the way to the kitchen crew, and cleaners who spent time sorting through recycling and compost (because people can’t for the life of themselves seem to know what belongs where and/or don’t care).
 
@@ -39,7 +36,7 @@ Many sessions were outside my repertoire, so it wasn’t too difficult for me to
 
 #### Inclusion panel quotes
 
-> "Diversity is a reality, inclusiveness is a choice." - SAP CEO
+> Diversity is a reality, inclusiveness is a choice. - SAP CEO
 
 - People need to overcome their unconscious biases and social stereotypes about certain groups of people that individuals form outside their conscious awareness.
 - Practice a prevention program to get feedback.
@@ -47,17 +44,7 @@ Many sessions were outside my repertoire, so it wasn’t too difficult for me to
 - Discrimination happens across the board.
 - Be proactive within; get feedback from up and down the organization.
 
-<figure>
-  <img src="./assets/next-women-of-cloud.jpg" alt="Women of Cloud panel">
-  <figcaption>Women of Cloud (from left to right):
-  Christina Storm (UX Manager, Google),
-  Michelle Duffy (SRE Director, Google),
-  Anna Berenberg (Distinguished Engineer, Google),
-  Grace Mollison (Cloud Solutions Architect, Google),
-  Ines Envid (Group Product Manager, Google),
-  Rae Wang (Group Product Manager, Google)
-  </figcaption>
-</figure>
+![Women of Cloud panel {1280x720} {priority} {caption: Women of Cloud (from left to right): Christina Storm (UX Manager, Google), Michelle Duffy (SRE Director, Google), Anna Berenberg (Distinguished Engineer, Google), Grace Mollison (Cloud Solutions Architect, Google), Ines Envid (Group Product Manager, Google), Rae Wang (Group Product Manager, Google)}](next-women-of-cloud.jpg)
 
 #### Building a better mobile web (progressive web app)
 
@@ -81,10 +68,7 @@ A combination of Dialogflow Enterprise Edition dev suite and Salesforce AI platf
 
 #### Laverne Cox (keynote)
 
-<figure>
-  <img src="./assets/next-lavernecox.jpg" alt="Laverne Cox">
-  <figcaption>Lavernce Cox owning her stage.  </figcaption>
-</figure>
+![Woman on stage {800x533} {priority} {caption: Laverne Cox owning her stage.}](next-lavernecox.jpg)
 
 - I can easily say Laverne’s talk was my FAVORITE thing about the conference, and it felt too short. She is an excellent, well-spoken, highly intelligent, experienced speaker on inclusion, diversity, struggles, and is a strong advocate of LGBTQA rights.
 
@@ -130,10 +114,7 @@ by [Smashing Magazine](https://www.smashingmagazine.com/). I think this editoria
 
 Note that there was an option to attend some workshops on days before/after the conference. I opted in to attend Vitaly’s _New Front-End Adventures_. Space for it was a bit cramped and the screen for the projector could have been bigger, but I learned a lot of things. Vitaly had a TON of material and asked the group what we wanted to focus on now and then, so it was a fluid class.
 
-<figure>
-  <img src="./assets/smashing-workshop.jpg" alt="Smashing Workshop">
-  <figcaption>My setup at the workshop</figcaption>
-</figure>
+![Smashing Workshop {800x450} {priority} {caption: My setup at the workshop}](smashing-workshop.jpg)
 
 They did provide ample time before, during, and after to get free snacks, coffee/tea, lunch, and bathroom breaks. There were also plenty of power outlets for your laptop.
 
@@ -143,10 +124,7 @@ This is a much smaller and intimate single-track conference consisting of mostly
 
 One fun bit: every goodie bag you got during badge pickup had a balloon. As a part of the opening ceremony, the audience blew up their balloons and threw them up in celebration. It was very exciting and a great way to start the day, full of energy and a sense of community.
 
-<figure>
-  <img src="./assets/balloons.jpg" alt="Throwing balloons">
-  <figcaption>Celebratory balloons</figcaption>
-</figure>
+![Throwing balloons {900x604} {priority} {caption: Celebratory balloons}](balloons.jpg)
 
 Most were insightful, especially the accessibility ones. There was only one talk that was catered to more non-technical folk (eg, the designers in the house) and the topic was demystifying GIT. I use GIT on a day-to-day basis, but I could see how useful it was for non-technical people to understand what GIT is used for, how it is useful, and most importantly, why it is not magic and how it is fairly simple once you break it down. Take away: do not be afraid of tools and learn their benefits!
 
@@ -179,10 +157,7 @@ Get the compression of a JPEG with the transparency of a PNG.
 
 Don’t worry, it turns out a lot of us are stuck in the boat of being a unicorn that has to keep up with way too much new stuff and employers wanting too much from us.
 
-<figure>
-  <img src="./assets/smashing-chris-coyier.jpg" alt="Chris Coyier talk">
-  <figcaption>Chris Coyier asking what defines a front-end developer</figcaption>
-</figure>
+![Chris Coyier talk {900x604} {priority} {caption: Chris Coyier asking what defines a front-end developer}](smashing-chris-coyier.jpg)
 
 It may be time to distinguish the differences between the different types of
 front-end developers out there.
@@ -205,10 +180,7 @@ front-end developers out there.
 
 - [Differential Loading w/ Jeremy Wagner](https://calendar.perfplanet.com/2018/doing-differential-serving-in-2019/): Deliver different bundles based on browser capability. We target based on babel config to support legacy browsers and then shave off bundles for modern browsers (remove unneeded polyfills)
 
-<figure>
-  <img src="./assets/diff-loading.png" alt="Differential loading before and after">
-  <figcaption>Differential loading before and after statistics</figcaption>
-</figure>
+![Differential loading before and after {900x604} {priority} {caption: Differential loading before and after statistics}](diff-loading.png)
 
 #### Typography
 
@@ -221,10 +193,7 @@ Variable fonts are an evolution of the OpenType font specification. It enables m
 
 - [MDN Guide + interactive examples](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide)
 
-<figure>
-  <img src="./assets/webfont.png" alt="Variable webfont screenshot">
-  <figcaption>Variable webfont example</figcaption>
-</figure>
+![Variable webfont screenshot {900x604} {priority} {caption: Variable webfont example}](webfont.png)
 
 #### Other Tricks/Things
 
@@ -232,10 +201,7 @@ Variable fonts are an evolution of the OpenType font specification. It enables m
 - [Can I stop using IE11?]([https://canistop.net/)
 - [Glenn's goofy optimization(?) of html class names](https://glenmaddern.com/) (view the source)
 
-<figure>
-  <img src="./assets/smashing-balloons.jpg" alt="Smashing balloons">
-  <figcaption>All my smashing notes, surrounded by balloons</figcaption>
-</figure>
+![Smashing balloons {900x604} {priority} {caption: All my smashing notes, surrounded by balloons}](smashing-balloons.jpg)
 
 If you are a front-end engineer (or work full-stack) or are a designer, or interested
 in UI/UX, I cannot recommend SmashingConf highly enough.

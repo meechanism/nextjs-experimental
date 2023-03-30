@@ -1,17 +1,14 @@
 ---
 title: Do I even photography?
-date: "2019-12-30T22:12:03.284Z"
+date: '2019-12-30T22:12:03.284Z'
 project: art
-tags: ["photography", "learning"]
+tags: ['photography', 'learning']
 featuredImage: ./mee-camera.jpg
 ---
 
 I've had the itch to learn photography for over a decade. Let's be clear, I take photos of food pretty often on my phone, but that's just for plain old fun. The type of photography I'm talking about is the real deal, the stuff you see in magazines, the stuff you pay people for when you need to look really good.
 
-<figure>
-  <img src="./capilano.JPG" alt="Capilano Lake">
-  <figcaption>This view of the <a href="https://www.vancouversnorthshore.com/things-to-do/parks/capilano-river-regional-park/">Capilano Lake</a> took my breath away. And the photo does zero justice. Send help. Dec 2019</figcaption>
-</figure>
+![Capilano Lake {900x604} {priority} {caption: This view of the <a href="https://www.vancouversnorthshore.com/things-to-do/parks/capilano-river-regional-park/">Capilano Lake</a> took my breath away. And the photo does zero justice. Send help. Dec 2019}](capilano.JPG)
 
 I love staring at stunning shots of majestic landscapes, serene and magical portraits of couples in orchards, and flipping through magazines filled with photos of vibrant displays of culture in places I've never been.
 
@@ -19,10 +16,7 @@ A photographer's careful, or even spontaneous, composition combined with a keen 
 
 But this is what people hire professionals to do, right?
 
-<figure>
-<img src="./not-foodtographer.JPG" alt="Bad food photography">
-<figcaption>Tandoori platter <a href="http://www.copperchimney.ca/">Copper Chimney</a>. Obviously not a food photographer. Look at that focus on the had instead of the food. Dec 2019</figcaption>
-</figure>
+![Bad food photography {900x604} {priority} {caption: Tandoori platter <a href="http://www.copperchimney.ca/">Copper Chimney</a>. Obviously not a food photographer. Look at that focus on the had instead of the food. Dec 2019}](not-foodtographer.JPG)
 
 I slowly discovered this is what I want to do for the places I visit and with the people important to me. I want to capture my own moments. I want to learn the same or similar techniques that inspire me.
 
@@ -36,10 +30,7 @@ Earlier this month, I took the first step forward to learn the basics of photogr
 
 What started all of this? Self-sufficiency! I usually travel with my boyfriend and he's the one documenting on devices other than a smartphone. I was going to travel to Vancouver without him and wanted to be armed with something more than my phone: his Canon EOS R mirrorless digital camera.
 
-<figure>
-  <img src="./mee-camera.jpg" alt="Mee in mirror with camera">
-  <figcaption>Shooting a photo of myself with the Canon EOS R, Dec 2019</figcaption>
-</figure>
+![Mee in mirror with camera {900x604} {priority} {caption: Shooting a photo of myself with the Canon EOS R, Dec 2019}](mee-camera.jpg)
 
 A week before my trip, I sat down with my boyfriend to go through some photography terminology. Along with this, I signed up for an Airbnb experience with [Anthony](https://photohere.com) and practiced getting comfortable with the camera in the city.
 
@@ -61,10 +52,7 @@ There are three key elements in the triangle of exposure: ISO, aperture, and shu
 - Higher f/stop = less exposure (smaller aperture)
 - Generally, a large aperture results in a larger foreground and background blur (a shallow depth of field). A small aperture provides a small amount of foreground and background blur (wide depth of field).
 
-<figure>
-  <img src="./garage.JPG" alt="Garage sign">
-  <figcaption><a href="http://www.450sutter.com/">450 Sutter</a> building garage sign at f/4, Dec 2019</figcaption>
-</figure>
+![Garage sign {900x604} {priority} {caption: <a href="http://www.450sutter.com/">450 Sutter</a> building garage sign at f/4, Dec 2019}](garage.JPG)
 
 #### Shutter speed
 
@@ -83,53 +71,35 @@ These are some rules I learned from my session with Anthony. Some are simpler to
 
 1. RULE OF THIRDS: try to mentally divide your image using a 3x3 grid (if your camera can display one, you can use it as a guide). Position the important elements in your scene along with the lines and/or intersection points.
 
-1. BALANCE: Balance the weight of your subject by including other elements.
+2. BALANCE: Balance the weight of your subject by including other elements.
 
-1. LEADING LINES: guide the viewer’s eye through an image. It helps draw focal points.
+3. LEADING LINES: guide the viewer’s eye through an image. It helps draw focal points.
 
-   <figure>
-   <img src="./chinatown-road.JPG" alt="A road off of Chinatown">
-   <figcaption>A road off of China Town. Ferry Building in the distance. Dec 2019</figcaption>
-   </figure>
+![A road off of Chinatown {900x604} {priority} {caption: A road off of China Town. Ferry Building in the distance. Dec 2019}](chinatown-road.JPG)
 
-1. VIEWPOINTS: to impact your composition with multiple points of interest.
+4. VIEWPOINTS: to impact your composition with multiple points of interest.
 
-1. BACKGROUND: compose your shot so it doesn’t distract or detract from your subject.
+5. BACKGROUND: compose your shot so it doesn’t distract or detract from your subject.
 
-1. SYMMETRY & PATTERNS: both natural and man-made can make for very eye-catching compositions.
+6. SYMMETRY & PATTERNS: both natural and man-made can make for very eye-catching compositions.
 
-   <figure>
-   <img src="./450sutter-reflection.jpg" alt="450 Sutter building ceiling">
-   <figcaption>Reflection of <a href="http://www.450sutter.com/">450 Sutter</a> ceiling details, Dec 2019</figcaption>
-   </figure>
+![450 Sutter building ceiling {900x604} {priority} {caption: Reflection of <a href="http://www.450sutter.com/">450 Sutter</a> ceiling details, Dec 2019}](450sutter-reflection.jpg)
 
-1. DEPTH: include objects in the foreground, middle ground, and background.
+7. DEPTH: include objects in the foreground, middle ground, and background.
 
-   <figure>
-   <img src="./xmas-market.JPG" alt="Christmas market line">
-   <figcaption>Vancouver Christmas market line, Dec 2019</figcaption>
-   </figure>
+![Christmas market line {900x604} {priority} {caption: Vancouver Christmas market line, Dec 2019}](xmas-market.JPG)
 
-1. FRAMES: isolate the main subject with a frame around the edge of your composition.
+8. FRAMES: isolate the main subject with a frame around the edge of your composition.
 
-   <figure>
-   <img src="./transamerica.JPG" alt="Transamerica building">
-   <figcaption>Transamerica building framed by trees, Dec 2019</figcaption>
-   </figure>
+![Transamerica building {900x604} {priority} {caption: Transamerica building framed by trees, Dec 2019}](transamerica.JPG)
 
-1. CROP: shoot or cut tight around the subject to eliminate background noise.
+9. CROP: shoot or cut tight around the subject to eliminate background noise.
 
-   <figure>
-   <img src="./red-buildings.JPG" alt="Red buildings">
-   <figcaption>Red buildings, edge of Chinatown, Dec 2019</figcaption>
-   </figure>
+![Red buildings {900x604} {priority} {caption: Red buildings, edge of Chinatown, Dec 2019}](red-buildings.JPG)
 
-   <figure>
-   <img src="./red-buildings-cropped.JPG" alt="Cropped red buildings">
-   <figcaption>Cropped gingko tree out of red buildings photo, Dec 2019</figcaption>
-   </figure>
+![Cropped red buildings {900x604} {priority} {caption: Cropped gingko tree out of red buildings photo, Dec 2019}](red-buildings-cropped.JPG)
 
-1. Experiment and have fun!
+10. Experiment and have fun!
 
 I need to remember #10. The reason why I was afraid of trying photography with cameras other than my phone was that I had no experience. I didn't want to use something without knowing anything about it. It turns out you need to take photos and learn through trial and error to gain experience!
 
@@ -145,25 +115,16 @@ I forgot the name of the challenge (maybe it was 2x20?), but these were the goal
 
 To get different compositions, you can shoot for scale (small/medium/large, up close, from afar), from different angles (top, level, below, side), abstractly (zoom in, capture the space around/between the subject), move several feet to the left/right, and etc. The idea is to keep moving and keep shooting.
 
-<figure>
-  <img src="./front-love.JPG" alt="Rainbow love sign">
-  <figcaption>LOVE sign from the front, Dec 2019</figcaption>
-</figure>
+![Rainbow love sign {900x604} {priority} {caption: LOVE sign from the front, Dec 2019}](front-love.JPG)
 
 When I did this challenge, some of the photos I found that looked the best were really surprising; they were of shots I would have never traditionally taken. This challenge helped me build new ideas and techniques I can reuse in future shots. It also forced me to get creative, which is nice especially if I find myself in a rut.
 
-<figure>
-  <img src="./back-love.JPG" alt="Abstract love sign">
-  <figcaption>A tight space between the LOVE sign and the wall, Dec 2019</figcaption>
-</figure>
+![Abstract love sign {900x604} {priority} {caption: A tight space between the LOVE sign and the wall, Dec 2019}](back-love.JPG)
 
 ## Conclusion
 
 I'm happy I finally started to make myself feel comfortable with a camera. I have only started to take photos, learned the basics of composition and terminology, and have not yet started to seriously edit them with post-processing software. To be honest, I only have [GIMP](https://www.gimp.org/) installed on my laptop! I will have to report back on my experience there!
 
-<figure>
-  <img src="./birb.JPG" alt="Birb">
-  <figcaption>Bird sighting during the hike around Cleveland Dam, Dec 2019</figcaption>
-</figure>
+![Birb {900x604} {priority} {caption: Bird sighting during the hike around Cleveland Dam, Dec 2019}](birb.JPG)
 
 My biggest lesson learned is to continue to shoot photos, even if the shot is awkward to get, I must be patient. I also need to keep my eyes open for opportunities (look up)! I'm excited to practice more and to continue to learn! There are so many types of shooting styles I want to do (like portraits), so I have a lot to look forward to.
