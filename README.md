@@ -11,6 +11,8 @@ Converting vanilla into using new features in NextJs 13
 
 ## Demo Prod Build
 
+Note: there's a prebuild step that moves images from `/posts` and subdirs to the `/public/images/[SLUG]` directory.
+
 1. First build: `npm run build`
 2. Then start server: `npm start`
 

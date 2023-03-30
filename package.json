@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "copyimages": "node ./bin/copy-images.mjs",
+    "prebuild": "npm run copyimages",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -14,6 +16,7 @@
     "@types/react-dom": "18.0.11",
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
+    "fs-extra": "^11.1.1",
     "gray-matter": "^4.0.3",
     "next": "13.2.4",
     "react": "18.2.0",

@@ -15,6 +15,9 @@
 # production
 /build
 
+# Ignore blog/posts images that are moved here pre-build.
+/public/images/posts
+
 # misc
 .DS_Store
 *.pem

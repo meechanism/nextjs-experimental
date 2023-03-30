@@ -2,24 +2,35 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 
-const postsDirectory = path.join(process.cwd(), 'posts');
+import { POSTS_DIR_NAME } from '../config/posts';
 
-export function getSortedPostsData() {
-  // get file names under /posts
-  const fileNames = fs.readdirSync(postsDirectory);
-  const allPostsData = fileNames.map((filename) => {
-    // remove .md from filename
-    const id = filename.replace(/\.md$/, '');
+const fsPromises = fs.promises;
 
-    // Read markdown file as string
-    const fullPath = path.join(postsDirectory, filename);
-    const fileContents = fs.readFileSync(fullPath, 'utf-8');
+const postsDirectory = path.join(process.cwd(), POSTS_DIR_NAME);
+
+/**
+ * Go through all our directories in /posts to build our post list
+ * @returns list of BlogPost
+ */
+export async function getSortedPostsData() {
+  const postSlugs = await fsPromises.readdir(POSTS_DIR_NAME);
+
+  // Go through all our post dirs (slugs) to collect post data
+  const allPostsData = postSlugs.map((currDir) => {
+    let fileContents;
+    try {
+      // Read markdown file as string
+      const fullPath = path.join(`${postsDirectory}/${currDir}`, 'index.md');
+      fileContents = fs.readFileSync(fullPath, 'utf-8');
+    } catch (e) {
+      throw Error(`Post is missing index.md file in directory "${currDir}"`);
+    }
 
     // Use gray-matter to parse the post metadata section
     const matterResult = matter(fileContents);
 
     const blogPost: BlogPost = {
-      id,
+      id: currDir,
       title: matterResult.data.title,
       date: matterResult.data.date
     };
@@ -29,8 +40,13 @@ export function getSortedPostsData() {
   return allPostsData.sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
+/**
+ *
+ * @param id Provided a post slug, pull the content of the post markdown file
+ * @returns
+ */
 export async function getPostData(id: string) {
-  const fullpath = path.join(postsDirectory, `${id}.md`);
+  const fullpath = path.join(`${postsDirectory}/${id}`, 'index.md');
   const fileContents = fs.readFileSync(fullpath, 'utf-8');
 
   // Use gray-matter to parse post

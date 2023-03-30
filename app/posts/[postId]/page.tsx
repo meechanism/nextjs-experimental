@@ -7,16 +7,16 @@ import Link from 'next/link';
 import Image from 'next/image';
 import ReactMarkdown from 'react-markdown';
 
-export function generateStaticParams() {
-  const posts = getSortedPostsData();
+export async function generateStaticParams() {
+  const posts = await getSortedPostsData();
   return posts.map((post) => ({
     postId: post.id
   }));
 }
 
-export function generateMetadata({ params }: any) {
+export async function generateMetadata({ params }: any) {
   const { postId } = params;
-  const posts = getSortedPostsData();
+  const posts = await getSortedPostsData();
 
   if (!posts.find((post) => post.id === postId)) {
     return notFound();
@@ -33,49 +33,11 @@ export function generateMetadata({ params }: any) {
   };
 }
 
-const renderers = {
-  p: (paragraph: any) => {
-    const { node } = paragraph;
-
-    if (node.children[0].tagName === 'img') {
-      const image = node.children[0];
-      const metastring = image.properties.alt;
-      const alt = metastring?.replace(/ *\{[^)]*\} */g, '');
-      const metaWidth = metastring.match(/{([^}]+)x/);
-      const metaHeight = metastring.match(/x([^}]+)}/);
-      const width = metaWidth ? metaWidth[1] : '768';
-      const height = metaHeight ? metaHeight[1] : '432';
-      const isPriority = metastring?.toLowerCase().match('{priority}');
-      const hasCaption = metastring?.toLowerCase().includes('{caption:');
-      const caption = metastring?.match(/{caption: (.*?)}/)?.pop();
-
-      return (
-        <div className="postImgWrapper">
-          <Image
-            src={image.properties.src}
-            width={width}
-            height={height}
-            className="postImg"
-            alt={alt}
-            priority={isPriority}
-          />
-          {hasCaption ? (
-            <div className="caption" aria-label={caption}>
-              {caption}
-            </div>
-          ) : null}
-        </div>
-      );
-    }
-    return <p>{paragraph.children}</p>;
-  }
-};
-
 const PostPage = async ({ params }: any) => {
   const { postId } = params;
 
   // Deduped, NextJs already knows we requested this, so it's available to use
-  const posts = getSortedPostsData();
+  const posts = await getSortedPostsData();
 
   if (!posts.find((post) => post.id === postId)) {
     return notFound();
@@ -83,6 +45,45 @@ const PostPage = async ({ params }: any) => {
 
   const { title, date, content } = await getPostData(postId);
   const pubDate = getFormattedDate(date);
+
+  const renderers = {
+    p: (paragraph: any) => {
+      const { node } = paragraph;
+
+      // images come wrapped in a p. This helper removes it.
+      if (node.children[0].tagName === 'img') {
+        const image = node.children[0];
+        const metastring = image.properties.alt;
+        const alt = metastring?.replace(/ *\{[^)]*\} */g, '');
+        const metaWidth = metastring.match(/{([^}]+)x/);
+        const metaHeight = metastring.match(/x([^}]+)}/);
+        const width = metaWidth ? metaWidth[1] : '768';
+        const height = metaHeight ? metaHeight[1] : '432';
+        const isPriority = metastring?.toLowerCase().match('{priority}');
+        const hasCaption = metastring?.toLowerCase().includes('{caption:');
+        const caption = metastring?.match(/{caption: (.*?)}/)?.pop();
+
+        return (
+          <div className="postImgWrapper">
+            <Image
+              src={`/images/posts/${postId}/${image.properties.src}`}
+              width={width}
+              height={height}
+              className="rounded my-2"
+              alt={alt}
+              priority={isPriority}
+            />
+            {hasCaption ? (
+              <div className="text-sm text-center" aria-label={caption}>
+                {caption}
+              </div>
+            ) : null}
+          </div>
+        );
+      }
+      return <p>{paragraph.children}</p>;
+    }
+  };
 
   return (
     <main className="px-6 prose prose-xl prose-slate dark:prose-invert mx-auto">
