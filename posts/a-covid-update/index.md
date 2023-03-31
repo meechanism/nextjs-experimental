@@ -4,6 +4,7 @@ date: '2021-03-08T22:12:03.284Z'
 project: life
 tags: ['pandemic', 'life', 'career']
 featuredImage: outdoors.jpg
+blurb: 'What has been going on during the pandemic?'
 ---
 
 It's been a hot minute. Let me shape my world right now since I didn't get to do a proper reflection and didn't write much last year.

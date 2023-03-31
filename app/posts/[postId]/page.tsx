@@ -1,11 +1,12 @@
 import { notFound } from 'next/navigation';
 
 import { getPostData, getSortedPostsData } from '@/lib/posts';
-import getFormattedDate from '@/lib/getFormattedDate';
+import { getFormattedDate } from '@/lib/getFormattedDate';
 import Link from 'next/link';
 
 import Image from 'next/image';
 import ReactMarkdown from 'react-markdown';
+import PageSection from '@/app/components/PageSection';
 
 export async function generateStaticParams() {
   const posts = await getSortedPostsData();
@@ -93,16 +94,22 @@ const PostPage = async ({ params }: any) => {
   };
 
   return (
-    <main className="px-6 prose prose-xl prose-slate dark:prose-invert mx-auto">
-      <h1 className="text-3xl mt-4 mb-0">{title}</h1>
-      <p className="mt-0">{pubDate}</p>
-      <article>
+    <PageSection>
+      <article className="prose prose-xl prose-slate mx-auto">
+        <header className="mb-8 md:mb-24">
+          <h1 className="text-xl md:text-3xl mb-0">{title}</h1>
+          <p className="mt-0">{pubDate}</p>
+        </header>
+
         <ReactMarkdown components={renderers}>{content}</ReactMarkdown>
-        <p>
-          <Link href="/">&#8612; Back to home</Link>
+
+        <p className="mt-24">
+          <Link href="/" className="text-sm no-underline hover:text-red-500">
+            &#8612; Back to home
+          </Link>
         </p>
       </article>
-    </main>
+    </PageSection>
   );
 };
 

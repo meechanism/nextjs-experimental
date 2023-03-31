@@ -4,4 +4,8 @@ type BlogPost = {
   id: string;
   title: string;
   date: string;
+  blurb: string;
+  tags?: string[];
+  project: string;
+  featuredImage: string;
 };

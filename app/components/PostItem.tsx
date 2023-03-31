@@ -1,5 +1,6 @@
-import getFormattedDate from '@/lib/getFormattedDate';
+import { getHipDate } from '@/lib/getFormattedDate';
 import Link from 'next/link';
+import P from './P';
 
 type Props = {
   post: BlogPost;
@@ -7,15 +8,22 @@ type Props = {
 
 export default function PostItem({ post }: Props) {
   const { id, title, date } = post;
-  const formattedDate = getFormattedDate(date);
+  const formattedDate = getHipDate(date);
   return (
-    <li className="mt-4 text-2xl dark:text-white/90" key={id}>
-      <Link
-        className="underline hover:text-black/70 dark:hover:text-white"
-        href={`/posts/${id}`}>
-        {title}
-      </Link>
-      <p className="text-sm mt-1">{formattedDate}</p>
+    <li className="flex space-x-6" key={id}>
+      <p className="font-mono text-gray-500 text-sm md:text-2xl">
+        {formattedDate}
+      </p>
+
+      <span className="w-0 h-0.5 bg-gray-300 md:mt-12 md:w-28"></span>
+
+      <div className="">
+        <Link className="no-underline" href={`/posts/${id}`}>
+          <p className="m-0 p-0 text-slate-800  text-sm md:text-2xl">{title}</p>
+
+          <P>{post.blurb}</P>
+        </Link>
+      </div>
     </li>
   );
 }

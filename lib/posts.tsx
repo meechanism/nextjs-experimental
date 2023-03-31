@@ -34,7 +34,11 @@ export async function getSortedPostsData() {
     const blogPost: BlogPost = {
       id: currDir,
       title: matterResult.data.title,
-      date: matterResult.data.date
+      date: matterResult.data.date,
+      blurb: matterResult.data.blurb,
+      tags: matterResult.data.tags,
+      project: matterResult.data.project,
+      featuredImage: matterResult.data.featuredImage
     };
     return blogPost;
   });

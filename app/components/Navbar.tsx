@@ -3,38 +3,44 @@ import Image from 'next/image';
 
 export default function Navbar() {
   return (
-    <nav className="bg-slate-600 p-4 sticky top-0 drop-shadow-xl z-10">
-      <div className="prose prose-xl mx-auto flex justify-between flex-col sm:flex-row">
-        {/* <Link href="/">
-          <Image
-            src="/ramhorn.svg"
-            width={50}
-            height={50}
-            alt="Hmong ramhorn motif"
-            priority={true}
-          />
-        </Link> */}
-        <Link
-          className="text-white/90 no-underline hover:text-white"
-          href="/about">
-          About
-        </Link>
-        <Link
-          className="text-white/90 no-underline hover:text-white"
-          href="/blog">
-          Blog
-        </Link>
-        <Link
-          className="text-white/90 no-underline hover:text-white"
-          href="/projects">
-          Projects
-        </Link>
-        <Link
-          className="text-white/90 no-underline hover:text-white"
-          href="/contact">
-          Contact
-        </Link>
-      </div>
-    </nav>
+    <header className="container max-w-screen-xl mx-auto px-4">
+      <nav className="flex items-center justify-between" aria-label="Global">
+        <div className="relative flex items-center py-[2.125rem]">
+          <Link href="/" className="hover:opacity-50">
+            <span className="sr-only">Meechanism</span>
+            <Image
+              src="/ramhorn.svg"
+              width={50}
+              height={50}
+              alt="Hmong ramhorn motif"
+              priority={true}
+            />
+          </Link>
+        </div>
+
+        <div className="lg:flex lg:items-center">
+          <Link
+            className="text-slate-700 no-underline hover:text-red-400 px-6"
+            href="/about">
+            About
+          </Link>
+          <Link
+            className="text-slate-700 no-underline hover:text-red-400 px-6"
+            href="/blog">
+            Blog
+          </Link>
+          <Link
+            className="text-slate-700 no-underline hover:text-red-400 px-6"
+            href="/projects">
+            Projects
+          </Link>
+          <Link
+            className="text-slate-700 no-underline hover:text-red-400 px-6"
+            href="/contact">
+            Contact
+          </Link>
+        </div>
+      </nav>
+    </header>
   );
 }
