@@ -18,22 +18,20 @@ export default function RootLayout({
         <Navbar />
         {children}
         <div className="prose prose-xl mx-auto p-2 mt-10 flex justify-between text-sm">
-          <div className="text-gray-300">
-            © 2023. Built and maintained by Mee.
-          </div>
+          <p>© 2023. Built and maintained by Mee.</p>
           <div className="flex justify-end">
             <Link
-              className="text-white/50 hover:text-white p-2"
+              className="text-slate-500/50 hover:text-red-500 p-2"
               href="https://www.linkedin.com/in/meecha">
               <FaLinkedin />
             </Link>
             <Link
-              className="text-white/50 hover:text-white p-2"
+              className="text-slate-500/50 hover:text-lime-500 p-2"
               href="https://www.github.com/meechanism">
               <FaGithub />
             </Link>
             <Link
-              className="text-white/50 hover:text-white p-2"
+              className="text-slate-500/50 hover:text-purple-500 p-2"
               href="https://www.instagram.com/meechanism">
               <FaInstagram />
             </Link>

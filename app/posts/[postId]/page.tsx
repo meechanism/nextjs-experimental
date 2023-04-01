@@ -7,6 +7,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import ReactMarkdown from 'react-markdown';
 import PageSection from '@/app/components/PageSection';
+import Tags from '@/app/components/Tags';
 
 export async function generateStaticParams() {
   const posts = await getSortedPostsData();
@@ -44,7 +45,7 @@ const PostPage = async ({ params }: any) => {
     return notFound();
   }
 
-  const { title, date, content } = await getPostData(postId);
+  const { title, date, content, tags } = await getPostData(postId);
   const pubDate = getFormattedDate(date);
 
   const renderers = {
@@ -103,11 +104,14 @@ const PostPage = async ({ params }: any) => {
 
         <ReactMarkdown components={renderers}>{content}</ReactMarkdown>
 
-        <p className="mt-24">
-          <Link href="/" className="text-sm no-underline hover:text-red-500">
+        <div className="flex justify-between mt-24">
+          <Link
+            href="/"
+            className="mt-3 text-sm no-underline hover:text-red-500">
             &#8612; Back to home
           </Link>
-        </p>
+          <Tags tags={tags} />
+        </div>
       </article>
     </PageSection>
   );

@@ -3,9 +3,9 @@ import Image from 'next/image';
 
 export default function Navbar() {
   return (
-    <header className="container max-w-screen-xl mx-auto px-4">
+    <header className="container max-w-screen-xl mx-auto px-1 md:px-6">
       <nav className="flex items-center justify-between" aria-label="Global">
-        <div className="relative flex items-center py-[2.125rem]">
+        <div className="relative flex items-center py-2 md:py-[2.125rem]">
           <Link href="/" className="hover:opacity-50">
             <span className="sr-only">Meechanism</span>
             <Image

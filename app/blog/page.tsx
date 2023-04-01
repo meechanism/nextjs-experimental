@@ -10,7 +10,7 @@ export default async function Blog() {
   return (
     <PageSection className="prose md:prose-lg lg:prose-xl">
       <h1 className="text-slate-800">Blog</h1>
-      <ul className="flexs">
+      <ul>
         {posts.map((post) => (
           <PostItem key={`post-${post.id}`} post={post} />
         ))}

@@ -19,7 +19,7 @@ I think we can agree interviews are smart to carry out for both parties. However
 
 > Only 31% think coding exams effectively test their aptitude, while two-thirds say most coding exams are irrelevant to the daily job of an engineer.
 
-Along with that metric, `42%` of people said the coding exam is the most stressful part.
+Along with that metric, **_42%_** of people said the coding exam is the most stressful part.
 
 Isn't that a rubbish experience for the candidates? How useful are the types of problems employers ask candidates to solve? Is being good at memorizing a very specific set of algorithms and problems useful for 99% of them? While it may be practical to measure some basic set of skills of computer science fundamentals, aren't most companies putting an unreasonable amount of pressure on their candidates and turning away potentially awesome people?
 

@@ -62,7 +62,11 @@ export async function getPostData(id: string) {
     id,
     title: matterResult.data.title,
     date: matterResult.data.date,
-    content: matterResult.content
+    content: matterResult.content,
+    blurb: matterResult.data.blurb,
+    tags: matterResult.data.tags,
+    project: matterResult.data.project,
+    featuredImage: matterResult.data.featuredImage
   };
 
   // combine data w/ the id
