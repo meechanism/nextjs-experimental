@@ -110,7 +110,7 @@ const PostPage = async ({ params }: any) => {
             className="mt-3 text-sm no-underline hover:text-red-500">
             &#8612; Back to home
           </Link>
-          <Tags tags={tags} />
+          <Tags tags={tags} classes={'ml-4'} />
         </div>
       </article>
     </PageSection>

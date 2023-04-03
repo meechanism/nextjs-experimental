@@ -1,8 +1,8 @@
-export default function Tags({ tags }: any) {
+export default function Tags({ tags, classes, nolabel = false }: any) {
   if (undefined === tags) return <></>;
   return (
-    <div className="ml-4">
-      <span className="pr-2 text-sm">Tags:</span>
+    <div className={classes}>
+      {!nolabel && <span className="pr-2 text-sm">Tags:</span>}
       {tags.map((tag: string) => (
         <span
           key={`tag-${tag}`}

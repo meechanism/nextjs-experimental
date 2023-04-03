@@ -3,7 +3,7 @@ title: Being Unemployed
 date: '2020-01-06T22:12:03.284Z'
 project: life
 tags: ['career', 'life']
-featuredImage: ./silhouette-of-mountains.jpg
+featuredImage: silhouette-of-mountains.jpg
 ---
 
 I'm currently unemployed (spoiler alert: Silicon Valley tech company meltdown).

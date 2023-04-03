@@ -1,29 +1,28 @@
 import { getHipDate } from '@/lib/getFormattedDate';
 import Link from 'next/link';
-import P from './P';
+
+import Image from 'next/image';
+import Tags from './Tags';
 
 type Props = {
   post: BlogPost;
 };
 
 export default function PostItem({ post }: Props) {
-  const { id, title, date } = post;
+  const { id, title, date, tags, featuredImage } = post;
   const formattedDate = getHipDate(date);
   return (
-    <li className="flex space-x-6" key={id}>
-      <p className="font-mono text-gray-500 text-sm md:text-2xl">
-        {formattedDate}
-      </p>
-
-      <span className="w-0 h-0.5 bg-gray-300 md:mt-12 md:w-28"></span>
-
-      <div className="">
-        <Link className="no-underline" href={`/posts/${id}`}>
-          <p className="m-0 p-0 text-slate-800  text-sm md:text-2xl">{title}</p>
-
-          <P>{post.blurb}</P>
-        </Link>
-      </div>
+    <li key={id}>
+      <Link className="no-underline flex mb-2 " href={`/posts/${id}`}>
+        <div className="w-full py-4">
+          <p className="font-mono text-gray-400 text-sm">{formattedDate}</p>
+          <h3 className="font-bold leading-8 tracking-tight m-0 p-0 text-slate-700 text-lg md:text-2xl">
+            {title}
+          </h3>
+          <p>{post.blurb}</p>
+          <Tags tags={tags} classes="mt-4" nolabel />
+        </div>
+      </Link>
     </li>
   );
 }
